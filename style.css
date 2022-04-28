@@ -1,9 +1,10 @@
+
 * {
     margin: 0;
     padding: 0;
     font-family: 'Roboto', sans-serif;
 }
-
+/* HEADER SECTION START */
 header {
     background-color: #290000;
 }
@@ -51,9 +52,9 @@ a.navbar-brand.logo {
     color: #fff;
     font-size: 13px;
 }
+/* HEADER SECTION END */
 
-
-
+/* SCOUND SECTION START */
 .col-12.col-sm-12.col-md-6.col-lg-4.col-xl-3 {
     margin: 50px 0px;
 }
@@ -114,9 +115,9 @@ a.navbar-brand.logo {
 .text-muted {
     color: #fff!important;
 }
+/* SCOUND SECTION END */
 
-
-
+/* THARD SECTION START */
 .thard-section {
     background-color: #303030;
 }
@@ -216,8 +217,9 @@ textarea {
     border: none;
     background-color: #76c38f;
 }
+/* THARD SECTION END */
 
-
+/* FOOTER SECTION START */
 footer{
     background-color: #2b2b2b;
 }
@@ -226,3 +228,4 @@ footer p {
     padding-top: 20px;
     text-align: center;
 }
+/* FOOTER SECTION END */
